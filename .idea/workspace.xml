@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff93bcda-4848-477e-b372-a6a6ab02ef46" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LoginandRegistration" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/project.xcworkspace/xcuserdata/ansal.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ScrollView" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SignInSignUp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/BlocksDemo.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BlocksDemo/BlocksDemo/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/GridViewDemo.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/RecipeViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/RecipeViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GridViewDemo/GridViewDemo/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/IBDesignDemo.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/CheckBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/CheckBox.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBDesignDemo/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing.xcodeproj/xcuserdata/mohini.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/JSONParsing.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/HTTPService.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/HTTPService.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JSONParsing/JSONParsing/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/.idea/MyLocationDemo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/.idea/xcode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/MyLocationDemo.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/MyLocationDemo/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/Utilities/BackgroundTaskUtilities/LocationManagerUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/Utilities/BackgroundTaskUtilities/LocationManagerUtils.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/Utilities/UIUtilities/AlertManagerUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyLocationDemo/Utilities/UIUtilities/AlertManagerUtils.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/MyMapLocationDemo.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyMapLocationDemo/MyMapLocationDemo/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/.idea/MyStore.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/.idea/xcode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/Device.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/Device.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/project.xcworkspace/xcuserdata/ansal.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/project.xcworkspace/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/xcuserdata/ansal.xcuserdatad/xcschemes/MyStore.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/xcuserdata/ansal.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/xcuserdata/mohini.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/MyStore.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore.xcodeproj/xcuserdata/mohini.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/DataManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/DataManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/DeviceDetailViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/DeviceDetailViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/DeviceTableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/DeviceTableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/MyStore.xcdatamodeld/.xccurrentversion" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/MyStore.xcdatamodeld/MyStore.xcdatamodel/contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/NSManagedObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/NSManagedObject.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MyStore/MyStore/main.m" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CheckBox.m" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IBDesignDemo/CheckBox.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IBDesignDemo/CheckBox.m" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IBDesignDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IBDesignDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IBDesignDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="RunManager" selected="Application.IBDesignDemo">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="IBDesignDemo" TARGET_NAME="IBDesignDemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="IBDesignDemo" RUN_TARGET_NAME="IBDesignDemo" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="IBDesignDemo" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="IBDesignDemo" TARGET_NAME="IBDesignDemo" CONFIG_NAME="Debug" SCHEME_NAME="IBDesignDemo" RUN_TARGET_PROJECT_NAME="IBDesignDemo" RUN_TARGET_NAME="IBDesignDemo" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.IBDesignDemo" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff93bcda-4848-477e-b372-a6a6ab02ef46" name="Default" comment="" />
+      <created>1577923261750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577923261750</updated>
+      <workItem from="1577923270061" duration="363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="363000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="786" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39748955" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IBDesignDemo/CheckBox.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
